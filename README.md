@@ -10,18 +10,18 @@ The tutorial will mainly be based on two  languages i.e - Python and JAVA but yo
 
 The tutorial will comprise of less theory and more coding. As the tutorial expects that you already know how to write code there will not be any problem in understanding the code written. The content will be briefly explained whereever necessary but will not dive into the details. The tutorial will be having 45 listed contents maximum and will try to explain as completely as possible for everyone to begin and understand coding. I will add some reference books or videos that you can visit or study for the detailed explanation.
 
-If you find any typo in the contents published or would like to add something that you think is missing feel free to mail me at: <a href="bus.zmw@gmail.com"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Gmail.svg" alt="GMail" height="20" width="20"></a>, or raise an issue regarding the same. If you find the content useful give a star, share the content and help others to learn.
+If you find any typo in the contents published or would like to add something that you think is missing feel free to mail me at: <br><a href="bus.zmw@gmail.com"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Gmail.svg" alt="GMail" height="20" width="20"></a><br> or raise an issue regarding the same. If you find the content useful give a star, share the content and help others to learn.
 
 I thank you for your patience and support.
 
 Regards:
 Zafar Mahmood Waris
 
-Follow my socials:
-LinkedIn : <a href="https://www.linkedin.com/in/zmwaris1/"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/LinkedIN.svg" alt="LinkedIN" height="20" width="20"></a>
-Twitter : <a href="https://twitter.com/Zmwaris"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Twitter.svg" alt="Twitter" height="20" width="20"></a>
+Follow my socials:<br>
+LinkedIn : <a href="https://www.linkedin.com/in/zmwaris1/"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/LinkedIN.svg" alt="LinkedIN" height="20" width="20"></a><br>
+Twitter : <a href="https://twitter.com/Zmwaris"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Twitter.svg" alt="Twitter" height="20" width="20"></a><br>
 GitHub : <a href="https://github.com/zmwaris1"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Github.svg" alt="Github" height="20" width="20"></a>
 
-If you wish to stay updated with the concepts and news related to programming, join the community:
-Discord : <a href="https://discord.gg/yD4JbuNr"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Discord.svg" alt="Discord" height="20" width="20"></a>
-Reddit : <a href="https://www.reddit.com/user/zmwaris1"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Reddit.svg" alt="Reddit" height="20" width="20"></a>
+If you wish to stay updated with the concepts and news related to programming, join the community:<br>
+Discord : <a href="https://discord.gg/yD4JbuNr"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Discord.svg" alt="Discord" height="20" width="20"></a><br>
+Reddit : <a href="https://www.reddit.com/user/zmwaris1"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Reddit.svg" alt="Reddit" height="20" width="20"></a><br>

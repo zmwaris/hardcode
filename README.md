@@ -10,7 +10,7 @@ The tutorial will mainly be based on two  languages i.e - Python and JAVA but yo
 
 The tutorial will comprise of less theory and more coding. As the tutorial expects that you already know how to write code there will not be any problem in understanding the code written. The content will be briefly explained whereever necessary but will not dive into the details. The tutorial will be having 45 listed contents maximum and will try to explain as completely as possible for everyone to begin and understand coding. I will add some reference books or videos that you can visit or study for the detailed explanation.
 
-If you find any typo in the contents published or would like to add something that you think is missing feel free to mail me at: <a href="bus.zmw@gmail.com"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Gmail.svg" alt="GMail" height="25" width="25"></a><br> or raise an issue regarding the same. If you find the content useful give a star, share the content and help others to learn.
+If you find any typo in the contents published or would like to add something that you think is missing feel free to mail me at: <a href="mailto: bus.zmw@gmail.com"><img src="https://raw.githubusercontent.com/zmwaris1/logos/main/Gmail.svg" alt="GMail" height="25" width="25"></a><br> or raise an issue regarding the same. If you find the content useful give a star, share the content and help others to learn.
 
 I thank you for your patience and support.
 

@@ -36,17 +36,18 @@ Defining variable in JAVA is done like:
 { % endhighlight %}
 
 The data types that can be defined are as follows:
+    
     Primitive data types - The data types that are native to the programming language.
 
-{% highlight dt %}
+    {% highlight dt %}
         "int", "float", "char", "short", "long", "boolean", "double".
-{% endhighlight %}
+    {% endhighlight %}
 
     Non-primitive data types - Data types that combine various primitive data types and their properties.
 
-{% highlight npdt %}
+    {% highlight npdt %}
         "Classes", "interfaces", "arrays"
-{% endhighlight %}
+    {% endhighlight %}
 
 Functions:
 Fucntions can be defined as the objects that comprise of logic, variables and data structures and provide the desired results as per the logic defined inside the function.

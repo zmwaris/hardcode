@@ -74,8 +74,6 @@ Both ways are used to call a function but it is more encouraged to use the first
 
 In JAVA we define a function as:
 
-#### Defining a function in JAVA uses different keyword with accessability and return types. Let's look into it:
-
 {% highlight jfunc %}
     public static void myfunc(int a, int b){
         int c = a + b;
@@ -88,5 +86,5 @@ In JAVA we define a function as:
     }
 {% endhighlight %}
 
-Now let us break up the keywords and look into each part seperately to understand better.
+Defining a function in JAVA uses different keyword with accessability and return types. Let's look into it:
 

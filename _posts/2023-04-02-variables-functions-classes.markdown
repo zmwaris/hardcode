@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Variables, Functions, Classes in Programming"
-date:   2023-04-02 22:25:10 +0530
-categories: learn programming
+date:   2023-04-02 09:25:11 +0530
+categories: jekyll update
 ---
 What are varibles, functions and classes in programming?
 
 Variables :
-Whenever in programming you need to store a value which can either be a constant or another variable we assign variables. Variables are defined to use the DRY(Don't Repeat Yourself) method. Highly used where there are multiple instances of a same object are used in the code that you write.
+Whenever in programming you need to store a value which can either be a constant or another variable we assign variables. Variables are defined to use the DRY(Don't Repeat Yourself) method. Highly used where multiple instances of a same object are used in the code.
 
-Variables are defined as follows:
+#### Variables are defined as follows:
 
 {% highlight var %}
 In Python you just assign the variable without defining the data type of the variable:
@@ -37,26 +37,24 @@ Defining variable in JAVA is done like:
 The data types that can be defined are as follows:
     Primitive data types - The data types that are native to the programming language.
 
-        {% highlight dt %}
+{% highlight dt %}
         "int", "float", "char", "short", "long", "boolean", "double".
-        {% endhighlight %}
+{% endhighlight %}
 
     Non-primitive data types - Data types that combine various primitive data types and their properties.
 
-        {% highlight npdt %}
+{% highlight npdt %}
         "Classes", "interfaces", "arrays"
-        {% endhighlight %}
+{% endhighlight %}
 
 Functions:
 Fucntions can be defined as the objects that comprise of logic, variables and data structures and provide the desired results as per the logic defined inside the function.
 
-Defining a function:
+#### Defining a function:
 
-In Python the function definition is fairly simple as compared to other languages:
+In Python the function definition is fairly simple as compared to other languages. We use the keyword "def" to define a function in Python.
 
-We use the keyword "def" to define a function in Python:
-
-{ % highlight func %}
+{% highlight func %}
     def func(a, b):
         c = a + b
         return c
@@ -66,17 +64,17 @@ To output the result we use the "return" keyword. Use of "print" keyword inside 
 
 After function defintion we need to know how to call the function to get the result. So, to call a function in Python we use:
 
-    {% highlight call %}
+{% highlight call %}
     func(a=10, b=20) or func(10, 20)
-    {% endhighlight %}
+{% endhighlight %}
 
 Both ways are used to call a function but it is more encouraged to use the first way to call a function as it places the desired value along with the variable so the chances of human error reduces.
 
 In JAVA we define a function as:
 
-Defining a function in JAVA uses different keyword with accessability and return types. Let's look into it:
+#### Defining a function in JAVA uses different keyword with accessability and return types. Let's look into it:
 
-{ % highlight jfunc %}
+{% highlight jfunc %}
     public static void myfunc(int a, int b){
         int c = a + b;
         System.out.println("The result is "+ c);
@@ -88,5 +86,5 @@ Defining a function in JAVA uses different keyword with accessability and return
     }
 {% endhighlight %}
 
-Now let us break up the keywords and look into each part seperately to understand better
+Now let us break up the keywords and look into each part seperately to understand better.
 

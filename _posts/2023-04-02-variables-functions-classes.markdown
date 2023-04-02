@@ -25,6 +25,7 @@ But in JAVA if you want to define a variable then you will need to define the da
 
 {% highlight varj %}
 Defining variable in JAVA is done like:
+
     For defining integers:
         int a = 1000;
         int b = a;

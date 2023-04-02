@@ -55,6 +55,7 @@ Fucntions can be defined as the objects that comprise of logic, variables and da
 #### Defining a function:
 
 In Python the function definition is fairly simple as compared to other languages. We use the keyword "def" to define a function in Python.
+
 <b>func.py</b>
 {% highlight func %}
     def func(a, b):
@@ -65,6 +66,7 @@ In Python the function definition is fairly simple as compared to other language
 To output the result we use the "return" keyword. Use of "print" keyword inside the fucntion will give the result while the function is running, but if you want to use the result "return" is used.
 
 After function defintion we need to know how to call the function to get the result. So, to call a function in Python we use:
+
 <b>func.py</b>
 {% highlight call %}
     def func(a, b):
@@ -77,6 +79,7 @@ Both ways are used to call a function but it is more encouraged to use the first
 
 In JAVA we define a function as:
 
+<b>myfunc.java</b>
 {% highlight jfunc %}
     public static void myfunc(int a, int b){
         int c = a + b;

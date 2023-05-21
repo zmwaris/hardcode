@@ -14,7 +14,7 @@ If you find any typo in the contents published or would like to add something th
 
 I thank you for your patience and support.
 
-Regards:<br>
+Regards and thanks:<br>
 Zafar Mahmood Waris
 
 Follow my socials:<br>

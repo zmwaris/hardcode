@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Defining Variables and Functions in Programming"
-date:   2023-04-02 09:25:11 +0530
+title:  "OOPs and Advanced concepts in programming"
+date:   2023-05-22 09:25:11 +0530
 categories: jekyll update
 ---
-### What are varibles and functions?
+### What is OOP?
 
-#### Variables:
+#### OOP:
 
-Whenever in programming you need to store a value which is to be used in the logic of programming then we store the value in a variable. Variables are defined to use the DRY(Don't Repeat Yourself) method. Highly used where multiple instances of a same object are used in the code.
+Whenever in programming you need to store a value which can either be a constant or another variable we assign variables. Variables are defined to use the DRY(Don't Repeat Yourself) method. Highly used where multiple instances of a same object are used in the code.
 
 #### Variables are defined as follows:
 
@@ -19,8 +19,8 @@ In Python you just assign the variable without defining the data type of the var
     'b' is assigned the value '1000' and 'a' is assinged the same as 'b'. Keep in mind that changes made in 'a' does not changes 'b' and vice versa.
 ```
 
-Similarly if we want assign a string to a variable we simply use the string without any data type.
-E.g., z = 'This is programming tutorial'
+Similarly if we want assign a string to a variable we simply use the string without any data type:
+    z = 'This is programming tutorial'
 
 
 But in JAVA if you want to define a variable then you will need to define the data type along with the variable.
@@ -121,7 +121,7 @@ To call a function in JAVA we use ~main~ function which is defined as:
     }
 ```
 
-This is all the basic intro and forms for JAVA and Python that one needs to get started with programming. To learn these concepts in detail you can refer to these books. (You can also refer to other books as you like.)
+This is all the basic form intro and forms for JAVA and Python that one needs to get started with programming. To learn more concepts in detail I recommend to refer to some good books.
 
 For Python:
 ```
@@ -133,3 +133,7 @@ For JAVA:
 ```
 Core JAVA : Fundamentals
 ```
+
+You can explore some more books but to know the basics these will be more than enough.
+
+
